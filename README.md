@@ -24,3 +24,14 @@ Adjust volume using a slider
 Add a shuffle option for playing songs in random order
 Display a progress bar for the current song
 Add a search function for finding specific songs
+for running the file use:
+python musicplayer.py
+
+screenshots of working model
+# Code
+<img width="1083" alt="image" src="https://github.com/Shubhamkumar8789/CodeClause_Music-Player-in-Python./assets/129000347/fa60012a-992b-4545-8524-7b83907e0d53">
+<img width="1083" alt="image" src="https://github.com/Shubhamkumar8789/CodeClause_Music-Player-in-Python./assets/129000347/cec753df-8c67-4f7f-a764-807db027a62a">
+# Output -Music player 
+<img width="617" alt="image" src="https://github.com/Shubhamkumar8789/CodeClause_Music-Player-in-Python./assets/129000347/bcb9cbee-4aa8-4c7e-94be-b812c0c4b24d">
+
+
